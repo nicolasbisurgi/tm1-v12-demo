@@ -1,0 +1,26 @@
+{
+	"@type":"Cube",
+	"Name":"plan_Report",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('plan_business_unit')"
+		},
+		{
+			"@id":"Dimensions('plan_department')"
+		},
+		{
+			"@id":"Dimensions('plan_chart_of_accounts')"
+		},
+		{
+			"@id":"Dimensions('plan_exchange_rates')"
+		},
+		{
+			"@id":"Dimensions('plan_report')"
+		},
+		{
+			"@id":"Dimensions('plan_time')"
+		}
+	],
+	"Views@Code.links":[]
+}

@@ -1,0 +1,14 @@
+{
+	"@type":"Cube",
+	"Name":"plan_Control",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('plan_controls')"
+		},
+		{
+			"@id":"Dimensions('plan_measure_setting')"
+		}
+	],
+	"Views@Code.links":[]
+}

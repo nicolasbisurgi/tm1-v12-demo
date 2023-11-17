@@ -1,0 +1,17 @@
+{
+	"@type":"Cube",
+	"Name":"plan_ExchangeRate",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('plan_currency')"
+		},
+		{
+			"@id":"Dimensions('plan_exchange_rates')"
+		},
+		{
+			"@id":"Dimensions('plan_time')"
+		}
+	],
+	"Views@Code.links":[]
+}
