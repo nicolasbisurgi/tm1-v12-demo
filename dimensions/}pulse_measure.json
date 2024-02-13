@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"}pulse_measure",
+	"Hierarchies@Code.links":
+	[
+		"}pulse_measure.hierarchies/}pulse_measure.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('}pulse_measure')/Hierarchies('}pulse_measure')"
+	}
+}

@@ -10,8 +10,7 @@
 		"dataSourceNameForClient":"plan_load_data",
 		"userName":"admin",
 		"password":"",
-		"query":"select * from plan_load_exchange_rates",
-		"usesUnicode":false
+		"query":"select * from plan_load_exchange_rates"
 	},
 	"Parameters":
 	[
@@ -58,5 +57,11 @@
 			"StartByte":0,
 			"EndByte":0
 		}
+	],
+	"VariablesUIData": [
+		"VarType=32\fColType=827\f",
+		"VarType=32\fColType=827\f",
+		"VarType=32\fColType=827\f",
+		"VarType=33\fColType=827\f"
 	]
 }

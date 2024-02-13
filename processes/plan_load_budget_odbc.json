@@ -10,8 +10,7 @@
 		"dataSourceNameForClient":"Plan_load_data",
 		"userName":"admin",
 		"password":"",
-		"query":"select * from plan_load_budgets",
-		"usesUnicode":false
+		"query":"select * from plan_load_budgets"
 	},
 	"Parameters":
 	[

@@ -1,6 +1,12 @@
 {
 	"@type":"Hierarchy",
 	"Name":"plan_version",
-	"Elements":[],
+	"Elements":
+	[
+		{
+			"Name":"test123",
+			"Type":"Numeric"
+		}
+	],
 	"Subsets@Code.links":[]
 }

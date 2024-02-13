@@ -1,8 +1,9 @@
 #region Prolog
 
 #****Begin: Generated Statements***
-OldCubeLogChanges = CUBEGETLOGCHANGES('plan_ExchangeRate');
-CUBESETLOGCHANGES('plan_ExchangeRate', 0);
+#OldCubeLogChanges = CUBEGETLOGCHANGES('plan_ExchangeRate');
+OldCubeLogChanges = 1;
+#CUBESETLOGCHANGES('plan_ExchangeRate', 0);
 #****End: Generated Statements****
 
 
@@ -194,6 +195,6 @@ endif;
 #region Epilog
 
 #****Begin: Generated Statements***
-CUBESETLOGCHANGES('plan_ExchangeRate', OldCubeLogChanges);
+#CUBESETLOGCHANGES('plan_ExchangeRate', OldCubeLogChanges);
 #****End: Generated Statements****
 #endregion

@@ -1,0 +1,14 @@
+{
+	"@type":"MDXView",
+	"Name":"Default",
+	"MDX@Code.link":"Default.mdx",
+	"Meta": {
+		"Aliases": {},
+		"ContextSets": {
+			"[D1].[D1]": {
+				"Expression": "{[D1].[D1].Members}"
+			}
+		},
+		"ExpandAboves": {}
+	}
+}
