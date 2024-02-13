@@ -1,0 +1,26 @@
+{
+	"@type":"Process",
+	"Name":"}pulse_FpSgsRBsXwzlSTOlE8o38w",
+	"HasSecurityAccess":false,
+	"Code@Code.link":"}pulse_FpSgsRBsXwzlSTOlE8o38w.ti",
+	"DataSource":
+	{
+		"Type":"None"
+	},
+	"Parameters":
+	[
+		{
+			"Name":"pCubeNames",
+			"Prompt":"Cube names",
+			"Value":"",
+			"Type":"String"
+		},
+		{
+			"Name":"pClear",
+			"Prompt":"",
+			"Value":0,
+			"Type":"Numeric"
+		}
+	],
+	"Variables":[]
+}

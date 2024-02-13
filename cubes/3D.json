@@ -1,0 +1,21 @@
+{
+	"@type":"Cube",
+	"Name":"3D",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('D1')"
+		},
+		{
+			"@id":"Dimensions('D2')"
+		},
+		{
+			"@id":"Dimensions('Measure')"
+		}
+	],
+	"Views@Code.links":
+	[
+		"3D.views/Test Native.json",
+		"3D.views/Default.json"
+	]
+}

@@ -1,6 +1,31 @@
 {
 	"@type":"Hierarchy",
 	"Name":"plan_business_unit",
-	"Elements":[],
-	"Subsets@Code.links":[]
+	"Elements":
+	[
+		{
+			"Name":"Total",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"item 1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"qqq",
+			"Type":"Numeric"
+		}
+	],
+	"Edges":
+	[
+		{
+			"ParentName":"Total",
+			"ComponentName":"item 1",
+			"Weight":3
+		}
+	],
+	"Subsets@Code.links":
+	[
+		"plan_business_unit.subsets/Default.json"
+	]
 }
